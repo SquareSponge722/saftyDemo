@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SaftyDemo</string>
+    <string name="enter_hint">请输入内容</string>
+</resources>
